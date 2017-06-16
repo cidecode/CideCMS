@@ -4,7 +4,7 @@
 
 <h2>DEMO</h2>
 Check out demo site at www.cidecode.com/demo<br>
-User name: cmsdemo, password: democms
+User name: <b>cmsdemo</b>, password: <b>democms</b>
 
 <h2>REQUIREMENTS</h2>
 
