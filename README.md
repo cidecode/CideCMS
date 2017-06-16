@@ -3,7 +3,7 @@
 <p>Welcome to our CideCMS GitHub project. CideCMS is simple coded looking Content Management System or CMS. This is out first project and first version. Still upgrading! :)<p>
 
 <h2>DEMO</h2>
-Check out demo site at www.cidecode.com/demo
+Check out demo site at www.cidecode.com/demo<br>
 User name: cmsdemo, password: democms
 
 <h2>REQUIREMENTS</h2>
