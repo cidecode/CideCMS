@@ -1,0 +1,24 @@
+form#upload-form input[type=text]{
+	border: 1px #d2d2d2 solid;
+	outline: none;
+	margin: 3px 0px 3px 0px; 
+	padding: 5px 5px 5px 5px;
+	border-radius: 4px;
+}
+form#upload-form input[type=text]:focus{
+	border: 1px #4395cb solid;
+}
+form#upload-form input[type=submit].btn-submit,input[type=button]{
+	float: right;
+	padding: 5px 15px 5px 15px;
+	background-color: #4395cb;
+	color: #f8f8f8;
+	border: 0;
+	outline: none;
+	border-radius: 3px; 
+	font-size: 0.7em;
+}
+form#upload-form input[type=submit].btn-submit:hover{
+	background-color: #1fafeb;
+	cursor: pointer;
+}

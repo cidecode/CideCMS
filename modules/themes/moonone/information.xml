@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This XML document contains all theme informations needed for usage.
+	NOTICE: Do not change name of any xml tag or otherwise the theme would not work properly.
+-->
+<theme>
+  <name>Moon one</name>
+  <version>1.0</version>
+  <description>Moon one is original theme for CideCMS.</description>
+  <preview type="png">preview.png</preview>
+  <author>Luka Rogović</author>
+  <email>luka@cidecode.com</email>
+  <site>http://www.cidecode.com</site>
+</theme>

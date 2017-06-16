@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This XML document contains all theme informations needed for usage.
+	NOTICE: Do not change name of any xml tag or otherwise the plugin would not work properly.
+-->
+<theme>
+  <name>Cide Slider</name>
+  <version>1.0</version>
+  <description>Cide Slider is offical CideCMS slider plugin. Easy to use and intigrate.</description>
+  <author>Luka Rogović</author>
+  <email>luka@cidecode.com</email>
+  <site>http://www.cidecode.com</site>
+</theme>
