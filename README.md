@@ -24,3 +24,6 @@ It's simple...in one, two, three...
 3) In browser enter URL to your CMS and follow the instructions
 
 Simple as that! :)
+
+<h2>LICENCE</h2>
+GNU GENERAL PUBLIC LICENSE Version 3
