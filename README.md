@@ -6,6 +6,9 @@
 Check out demo site at www.cidecode.com/demo<br>
 User name: <b>cmsdemo</b>, password: <b>democms</b>
 
+<h2>DOWNLOAD</h2>
+You can clone it/download it from GitHub or download zip file from our server at http://cidecode.com/cms/cidecms_v1.0.0.zip
+
 <h2>REQUIREMENTS</h2>
 
 <ul>
