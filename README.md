@@ -12,8 +12,8 @@ You can clone it/download it from GitHub or download zip file from our server at
 <h2>REQUIREMENTS</h2>
 
 <ul>
-<li>PHP version 7</li>
-<li>MySQL version 5.6</li>
+<li>PHP version 5.6 & 7.1</li>
+<li>MySQL version 5.6 or MariaDB 10.1</li>
 </ul>
 
 <h2>INSTALLATION</h2>
