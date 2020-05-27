@@ -3,11 +3,7 @@
 <p>Welcome to our CideCMS GitHub project. CideCMS is simple coded looking Content Management System or CMS. This is out first project and first version. Still upgrading! :)<p>
 
 <h2>DEMO</h2>
-Check out demo site at www.cidecode.com/demo<br>
-User name: <b>cmsdemo</b>, password: <b>democms</b>
-
-<h2>DOWNLOAD</h2>
-You can clone it/download it from GitHub or download zip file from our server at http://cidecode.com/cms/cidecms_v1.0.0.zip
+Demo is currently unavailable due to the server maintenance.
 
 <h2>REQUIREMENTS</h2>
 
@@ -25,5 +21,4 @@ It's simple...in one, two, three...
 
 Simple as that! :)
 
-<h2>LICENCE</h2>
-GNU GENERAL PUBLIC LICENSE Version 3
+Enjoy
